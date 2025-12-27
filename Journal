@@ -1,0 +1,85 @@
+05 Mar 2025 — Kick-off
+
+Decided to initially search for review articles on ML in manufacturing; RL to search in two weeks.
+
+Schedule a 5-minute PowerPoint presentation for next meeting.
+
+09–18 Mar 2025 — Attention.
+
+Collect introductory literature on manufacturing ML; organize 5-min presentations (scope, objectives, preliminary sources).
+
+Outline RL sections to study for next meeting (basics, algos to cover).
+
+20 Mar 2025 — Methodology & RL fundamentals.
+
+Presented methodology PPT; discussed RL fundamentals.
+
+Next steps: gather papers under MLR, XGBoost, Random Forest; read Q-learning, DDPG, TD3; begin literature survey.
+
+24–31 Mar 2025 — Attention
+
+Start literature review framework; collect supervised ML papers (MLR/XGBoost/RF) and introductory RL sources; outline EDA plan.
+
+03 Apr 2025 — Prepare EDA & dataset
+
+Shared targets and inputs; discussed data provenance.
+
+Action: extensive EDA with plots; try first ML models; peruse Mg synthesis papers to give parameter background.
+
+07–09 Apr 2025 — Focus
+
+Conduct bivariate/multivariate EDA; prepare figures and text to communicate model choice.
+
+10 Apr 2025 — Reviewed EDA; begin ML modeling.
+
+EDA depth noted; urged to initiate ML models to aid RL; commence literature survey; read SMOTE and nanoparticle preparation thoroughly.
+
+14–26 Apr 2025 — Focus 
+
+Train baseline regressors; experiments with SMOTE; extend survey with literature background and model choice.
+
+27 Apr 2025 — Modelling feedback & writing objectives.
+
+EDA assessed as good; ML modeling direction is fine; SMOTE attempted but challenging.
+
+Supervisor requested to write a stronger literature review (~3,000 words) and to use SMOTE; finalize entire interim report planning.
+
+01–26 May 2025 — Pay attention (during meetings).
+
+Literature review with additional references; progress towards interim report; finalize models; prepare tree of relevance, Gantt chart.
+
+30 May 2025 — plan for literature review & first draft. Submitted draft literature review with references; model "fine".
+
+Feedback: provide more references; integrate relevance tree; plan Gantt chart; finalize literature review and poster.
+
+18- 06
+
+Methods to increase the size of dataset by surrogate modeling
+
+25 - 06
+
+Performing the EDA on the new dataset
+
+30 - 06 
+
+Random forest regressor with surrogate modeling
+
+10 - 07
+
+Random forest ML model with synthesised dataset
+
+25 - 07
+
+Understanding the RL Methods
+
+05 - 08
+
+DDPG and TD3 model Understanding its methodology and working
+
+12 - 08
+
+Trying to build the DDPG model
+
+23 - 08
+
+Trying to build the model for TD3
